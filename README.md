@@ -25,13 +25,13 @@ Users should be able to:
 
 ### 🖥️ **Screenshot**
 
-![Screenshot of the app in Desktop mode](./assets/images/desktop-screenshot.jpeg)
-![Screenshot of the app in Mobile mode](./assets/images/mobile-screenshot.jpg)
+![Screenshot of the app in Desktop mode](./images/desktop-screenshot.jpeg)
+![Screenshot of the app in Mobile mode](./images/mobile-screenshot.jpg)
 
 ### 🔗 **Links**
 
-- **Solution URL:** [Add solution URL here](https://your-solution-url.com)
-- **Live Site URL:** [Add live site URL here](https://your-live-site-url.com)
+- **Solution URL:** [https://www.frontendmentor.io/solutions/order-summary-component-resolution-IIWgVkvGTn](https://www.frontendmentor.io/solutions/order-summary-component-resolution-IIWgVkvGTn)
+- **Live Site URL:** [https://lajuro.github.io/order-summary-component/](https://lajuro.github.io/order-summary-component/)
 
 ## 💡 **My process**
 
